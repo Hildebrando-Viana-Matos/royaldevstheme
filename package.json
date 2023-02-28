@@ -22,6 +22,10 @@
   "categories": [
     "Themes"
   ],
+  "icon": {
+    "light": "./images/icon.jpg",
+    "dark": "./images/icon.jpg"
+  },
   "contributes": {
     "themes": [
       {
