@@ -6,13 +6,13 @@ The Royal Devs Theme is a minimalist and elegant theme for Visual Studio Code. W
   <img src="https://img.shields.io/badge/preview%20in-vscode.dev-blue" />
 </a>
 <a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
-  <img src="https://vsmarketplacebadges.dev/version/RoyalDevsTheme.royal-devs-theme.svg" />
+  <img src="https://vsmarketplacebadges.dev/version/RoyalDevsTheme.royal-devs-theme.png" />
 </a>
 <a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
-  <img src="https://vsmarketplacebadges.dev/installs/RoyalDevsTheme.royal-devs-theme.svg" />
+  <img src="https://vsmarketplacebadges.dev/installs/RoyalDevsTheme.royal-devs-theme.png" />
 </a>
 <a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
-  <img src="https://vsmarketplacebadges.dev/rating/RoyalDevsTheme.royal-devs-theme.svg" />
+  <img src="https://vsmarketplacebadges.dev/rating/RoyalDevsTheme.royal-devs-theme.png" />
 </a>
 
 ## Code Preview
