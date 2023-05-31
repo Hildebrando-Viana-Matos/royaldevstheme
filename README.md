@@ -1,16 +1,24 @@
-# royal-devs-theme README
+# Royal Devs Theme
+The Royal Devs Theme is a minimalist and elegant theme for Visual Studio Code. With a royal blue and light gray color scheme, it provides a pleasant and professional visual experience. It highlights syntax in a clear and legible manner. It includes custom icons for easy navigation and identification of files and folders. It is a perfect choice for developers who want a minimalist and elegant theme.
+<br />
+<br />
+<a href="https://vscode.dev/theme/Hildebrando-Viana-Matos.royaldevstheme">
+  <img src="https://img.shields.io/badge/preview%20in-vscode.dev-blue" />
+</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
+  <img src="https://vsmarketplacebadges.dev/version/RoyalDevsTheme.royal-devs-theme.svg" />
+</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
+  <img src="https://vsmarketplacebadges.dev/installs/RoyalDevsTheme.royal-devs-theme.svg" />
+</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">
+  <img src="https://vsmarketplacebadges.dev/rating/RoyalDevsTheme.royal-devs-theme.svg" />
+</a>
 
-## Working with Markdown
+## Code Preview
+<img src="https://github.com/Hildebrando-Viana-Matos/royaldevstheme/preview/code.png" />
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<br />
+<br />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Made with 💜 by <a href="https://marketplace.visualstudio.com/items?itemName=RoyalDevsTheme.royal-devs-theme">hildodev</a>!**
