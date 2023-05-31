@@ -1,5 +1,5 @@
 # Royal Devs Theme
-The Royal Devs Theme is a minimalist and elegant theme for Visual Studio Code. With a royal blue and light gray color scheme, it provides a pleasant and professional visual experience. It highlights syntax in a clear and legible manner. It includes custom icons for easy navigation and identification of files and folders. It is a perfect choice for developers who want a minimalist and elegant theme.
+Enhance your coding experience with the Royal Devs Theme. With its carefully chosen color palette and thoughtful design, this theme strikes the perfect balance between aesthetics and functionality. Whether you're building a web app, analyzing data, or working on innovative software, the Royal Devs Theme will elevate your coding environment.
 <br />
 <br />
 <a href="https://vscode.dev/theme/RoyalDevsTheme.royal-devs-theme">
