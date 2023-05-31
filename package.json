@@ -2,7 +2,7 @@
   "name": "royal-devs-theme",
   "displayName": "Royal Devs Theme",
   "description": "The Royal Devs Theme is a color theme for Visual Studio Code inspired by the colors of the Royal Devs logo, a Discord server dedicated to the programming community.",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "publisher": "RoyalDevsTheme",
   "repository": {
     "type": "git",
